@@ -1,0 +1,3 @@
+D:/Desktop files/C++ tries/2-way Linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Desktop files/C++ tries/2-way Linked list/cmake-build-debug/CMakeFiles/2_way_Linked_list.dir
+D:/Desktop files/C++ tries/2-way Linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
